@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/out/
+/rd-dz-5.iml/
